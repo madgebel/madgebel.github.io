@@ -43,19 +43,20 @@ body {
 h1 {
     color: darkgreen;
     margin-top: 0px;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 1px 1px 1px yellow;
 }
 
 h2 {
-    color: forestgreen;
+    color: #8E2525;
     font-size: 16px;
     margin-top: 0px;
     margin-bottom: 45px;
+    text-shadow: 0px 0px 1px white;
 }
 
 p {
     color: coral;
     font-family: serif;
     font-size: 18px;
-    text-shadow: 0px 0px 1px black;
+    text-shadow: 1px 1px 5px black;
 }
